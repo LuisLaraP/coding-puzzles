@@ -12,8 +12,8 @@ Inside this directory there is one directory for each AoC year. Within a year's 
 
 The directory of each day contains the following files:
 
-	- `input.txt`. The input file, which is the same for both puzzes of the day.
-	- `test_1.txt`. Test input for the first puzzle.
-	- `test_2.txt`. Test input for the second puzzle.
-	- Source code of the solution for the first puzzle. It is called `1.<extension>`, where the extension depends on the programming language.
-	- Source code of the solution for the second puzzle. It is called `2.<extension>`, where the extension depends on the programming language.
+- `input.txt`. The input file, which is the same for both puzzes of the day.
+- `test_1.txt`. Test input for the first puzzle.
+- `test_2.txt`. Test input for the second puzzle.
+- Source code of the solution for the first puzzle. It is called `1.<extension>`, where the extension depends on the programming language.
+- Source code of the solution for the second puzzle. It is called `2.<extension>`, where the extension depends on the programming language.
